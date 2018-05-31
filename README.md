@@ -6,5 +6,7 @@ This is compatible for linux only.
 Run using following:
 
 `$ cd src`
+
 `$ make eyeRestNotify`
+
 `$ ./eyeRestNotify`
